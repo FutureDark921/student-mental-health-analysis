@@ -1,8 +1,8 @@
-# Executive Summary - Mental Health Trends Among University Students
+# Executive Summary - Mental Health Trends Among Students In Philippines
 
 ## Project Overview
 Analyze mental health indicators (Depression, Anxiety, Panic Attacks)  and academic performance (GPA) across students in the dataset.
-students who seeks treatment and also students who committed suicide.
+Students who seeks treatment and also students who committed suicide.
 
 ## Key Questions
 - What percentage of students report depression/anxiety?
