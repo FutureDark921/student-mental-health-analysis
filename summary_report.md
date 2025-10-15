@@ -5,6 +5,7 @@ Analyze mental health indicators (Depression, Anxiety, Panic Attacks)  and acade
 Students who seeks treatment and also students who committed suicide.
 
 ## Key Questions
+- What Gender is more depressed?
 - What percentage of students report depression/anxiety?
 - Is there a GPA difference between students with and without depression?
 - How do mental health indicators vary by gender and year of study?
