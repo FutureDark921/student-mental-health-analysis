@@ -14,12 +14,12 @@ The project follows a complete data analytics workflow, including data cleaning,
 - Build an interactive dashboard for data-driven insights.
 
 ## Tools Used
--- Google Sheets
--- Pivot Tables
--- Pivot Charts
--- Slicers
--- Dashboard Design
--- Data Visualization
+- Google Sheets
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Dashboard Design
+- Data Visualization
 
 ## Dataset Information
 - Dataset: Student Social Media and Mental Health Impact
@@ -52,39 +52,39 @@ The following data preparation steps were performed:
 
 ## Feature Engineering
 ## Usage Category
--- Low Usage (< 2 Hours)
--- Medium Usage (2–5 Hours)
--- High Usage (> 5 Hours)
+- Low Usage (< 2 Hours)
+- Medium Usage (2–5 Hours)
+- High Usage (> 5 Hours)
 
 ## Sleep Category
--- Poor Sleep (< 6 Hours)
+- Poor Sleep (< 6 Hours)
 -- Healthy Sleep (≥ 6 Hours)
 
 ## Mental Health Category
--- Poor (< 5)
--- Moderate (5–7)
--- Good (> 7)
+- Poor (< 5)
+- Moderate (5–7)
+- Good (> 7)
 
 ## Analysis Performed
 
  ## Pivot Table Analysis
--- 1.Mental Health by Usage Category
--- 2.Mental Health by Platform
--- 3.Stress Level by Platform
--- 4.Mental Health by Sleep Category
--- 5.Mental Health by Academic Level
--- 6.Mental Health by Gender
+- 1.Mental Health by Usage Category
+- 2.Mental Health by Platform
+- 3.Stress Level by Platform
+- 4.Mental Health by Sleep Category
+- 5.Mental Health by Academic Level
+- 6.Mental Health by Gender
 
 ## Dashboard Features
 The dashboard includes:
--- KPI Cards
--- Interactive Slicers
--- Pivot Charts
--- Platform Analysis
--- Sleep Analysis
--- Academic Level Analysis
--- Gender Analysis
--- Stress Distribution Analysis
+- KPI Cards
+- Interactive Slicers
+- Pivot Charts
+- Platform Analysis
+- Sleep Analysis
+- Academic Level Analysis
+- Gender Analysis
+- Stress Distribution Analysis
 
 ## Key Insights
 - Students with higher social media usage generally reported lower mental health scores.
@@ -102,7 +102,7 @@ The dashboard includes:
 
 
 ## Dashboard Preview
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard)
 ![Dashboard](PivotChart1.png)
 ![Dashboard](PivotChart2.png)
 ![Dashboard](PivotChart3.png)
