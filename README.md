@@ -109,19 +109,19 @@ The dashboard includes:
 ### Mental Health by Usage
 ![Chart 1](Dashboard/PivotChart1.png)
 
-### Platform Analysis
+ ### Stress Level Analysis
 ![Chart 2](Dashboard/PivotChart2.png)
 
-### Stress Level Analysis
+### Platform Analysis
 ![Chart 3](Dashboard/PivotChart3.png)
 
 ### Sleep Analysis
 ![Chart 4](Dashboard/PivotChart4.png)
 
-### Academic Level Analysis
+ ### Gender Analysis
 ![Chart 5](Dashboard/PivotChart5.png)
 
-### Gender Analysis
+### Academic Level Analysis
 ![Chart 6](Dashboard/PivotChart6.png)
 
 
