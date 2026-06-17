@@ -107,22 +107,22 @@ The dashboard includes:
 ![Main Dashboard](Dashboard/Dashboard.png)
 
 ### Mental Health by Usage
-![Chart 1](Dashboard/PivotChart1.png)
+![Mental Health by Social Media Usage](Dashboard/PivotChart1.png)
 
  ### Stress Level Analysis
-![Chart 2](Dashboard/PivotChart2.png)
+![Stress Level by Platform](Dashboard/PivotChart2.png)
 
 ### Platform Analysis
-![Chart 3](Dashboard/PivotChart3.png)
+![Mental Health Score by Platform](Dashboard/PivotChart3.png)
 
 ### Sleep Analysis
-![Chart 4](Dashboard/PivotChart4.png)
+![Mental Health by Sleep Category](Dashboard/PivotChart4.png)
 
  ### Gender Analysis
-![Chart 5](Dashboard/PivotChart5.png)
+![Mental Health by Gender](Dashboard/PivotChart5.png)
 
 ### Academic Level Analysis
-![Chart 6](Dashboard/PivotChart6.png)
+![Mental Health by Academic Level](Dashboard/PivotChart6.png)
 
 
 
