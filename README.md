@@ -102,7 +102,7 @@ The dashboard includes:
 
 
 ## Dashboard Preview
-![Dashboard](Dashboard)
+![Dashboard](Dashboard/Dashboard)
 ![Dashboard](PivotChart1.png)
 ![Dashboard](PivotChart2.png)
 ![Dashboard](PivotChart3.png)
