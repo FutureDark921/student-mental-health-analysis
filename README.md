@@ -102,13 +102,19 @@ The dashboard includes:
 
 
 ## Dashboard Preview
-![Dashboard](Dashboard/Dashboard)
-![Dashboard](PivotChart1.png)
-![Dashboard](PivotChart2.png)
-![Dashboard](PivotChart3.png)
-![Dashboard](PivotChart4.png)
-![Dashboard](PivotChart5.png)
-![Dashboard](PivotChart6.png)
+![Main Dashboard](Dashboard/Dashboard.png)
+
+![Chart 1](Dashboard/PivotChart1.png)
+
+![Chart 2](Dashboard/PivotChart2.png)
+
+![Chart 3](Dashboard/PivotChart3.png)
+
+![Chart 4](Dashboard/PivotChart4.png)
+
+![Chart 5](Dashboard/PivotChart5.png)
+
+![Chart 6](Dashboard/PivotChart6.png)
 
 
 
